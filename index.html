@@ -15,21 +15,21 @@
         </div>
         <div class="rightside">
             <h1>Crie uma conta</h1>
-            <form method="">
+            <form method="POST" class="formValidator" action="">
                 <label>
                     Seu nome: <br>
-                    <input type="text" name="nome" autofocus>
+                    <input class="name" type="text" name="nome" autofocus minlength="20" required>
                 </label>
                 <label>
                     Seu e-mail: <br>
-                    <input type="text" name="email">
+                    <input class="email" type="email" name="email" required>
                 </label>
                 <label>
                     Sua senha: <br>
-                    <input type="password" name="senha">
+                    <input class="password" type="password" name="senha" minlength="8" required>
                 </label>
                 <label>
-                    <input class="" type="submit" value="Criar conta">
+                    <input class="button disabled" type="submit" value="Criar conta">
                 </label>
             </form>
 
