@@ -51,7 +51,8 @@ Este projeto é um exemplo de validação de formulário usando JavaScript puro.
 
 ## Captura de Tela
 
-![Captura de Tela](./src/images/screen.png)
+![Macbook-Air-validador-de-formulario vercel app](https://github.com/user-attachments/assets/3edfc1aa-da8a-4dd6-af14-b34382c512a2)
+
 
 ## Melhorias Futuras
 
