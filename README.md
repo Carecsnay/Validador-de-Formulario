@@ -53,17 +53,6 @@ Este projeto é um exemplo de validação de formulário usando JavaScript puro.
 
 ![Macbook-Air-validador-de-formulario vercel app](https://github.com/user-attachments/assets/3edfc1aa-da8a-4dd6-af14-b34382c512a2)
 
-
-## Melhorias Futuras
-
-- Adicionar mensagens de erro personalizadas para cada campo.
-- Implementar testes automatizados para validação.
-- Adicionar suporte a mais idiomas.
-
 ## Autor
 
 Criado por Bruno Benicio. Sinta-se à vontade para contribuir ou enviar sugestões!
-
----
-
-**Nota**: Certifique-se de que os caminhos para os arquivos CSS, JS e imagens estão corretos antes de executar o projeto.
