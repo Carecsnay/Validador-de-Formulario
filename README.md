@@ -2,6 +2,12 @@
 
 Este projeto é um exemplo de validação de formulário usando JavaScript puro. Ele demonstra como verificar a validade de campos de entrada em tempo real e desabilitar o botão de envio até que todos os campos estejam preenchidos corretamente.
 
+## Deploy
+
+Confira o projeto em funcionamento clicando no link abaixo:
+
+[Validador de Formulário - Deploy](https://validador-de-formulario.vercel.app/)
+
 ## Tecnologias Utilizadas
 
 - **HTML5**: Para estruturação da página.
@@ -30,12 +36,6 @@ Este projeto é um exemplo de validação de formulário usando JavaScript puro.
 │   └── images/
 │       └── screen.png # Imagem exibida na página
 ```
-
-## Deploy
-
-Confira o projeto em funcionamento clicando no link abaixo:
-
-[Validador de Formulário - Deploy](https://validador-de-formulario.vercel.app/)
 
 ## Personalização
 
